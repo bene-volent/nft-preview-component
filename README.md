@@ -42,8 +42,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github Repository](https://github.com/bene-volent/qr-code-component)
-- Live Site URL: [Github Page](https://bene-volent.github.io/qr-code-component)
+- Solution URL: [Github Repository](https://github.com/bene-volent/nft-preview-component)
+- Live Site URL: [Github Page](https://bene-volent.github.io/nft-preview-component)
 
 ### Built with
 
@@ -55,7 +55,7 @@ Users should be able to:
 
 ## Acknowledgments
 
-In order to create the overlay, I took "Reference" from ![@correlucas](https://www.frontendmentor.io/solutions/nft-preview-card-vanilla-css-custom-design-and-hover-effects-zVKSAE5IXI) solution. Without this, I couldn't have created this.
+In order to create the overlay, I took "Reference" from [@correlucas](https://www.frontendmentor.io/solutions/nft-preview-card-vanilla-css-custom-design-and-hover-effects-zVKSAE5IXI) solution. Without this, I couldn't have created this.
 
 ## Author
 
