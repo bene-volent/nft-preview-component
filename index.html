@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+        <!-- Importing fonts: Google Outfit:300, 400, 600 -->
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link
+            href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap"
+            rel="stylesheet"
+        />
+
+        <!-- CSS Linking -->
+        <link rel="stylesheet" href="style.css" />
+
+        <title>Frontend Mentor | NFT preview card component</title>
+    </head>
+    <body class="bg-700 clr-400">
+        <main class="bg-400">
+            <div class="card">
+                <img
+                    src="./images/image-equilibrium.jpg"
+                    alt="Equilibrium NFT"
+                    id="equilibrium"
+                />
+                <div class="equilibrium-overlay">
+                    <img
+                        src="./images/icon-view.svg"
+                        class="view-image"
+                        width="48"
+                        alt=""
+                    />
+                </div>
+            </div>
+
+            <div class="text">
+                <h3><a href="#" class="clr-100"> Equilibrium #3429 </a></h3>
+
+                <p>Our Equilibrium collection promotes balance and calm.</p>
+
+                <div id="cost-time">
+                    <span class="clr-300">
+                        <img
+                            src="./images/icon-ethereum.svg"
+                            alt="ethereum icon"
+                        />
+
+                        0.041 ETH
+                    </span>
+
+                    <span>
+                        <img src="./images/icon-clock.svg" alt="clock" />
+                        3 days left
+                    </span>
+                </div>
+                <hr />
+                <div class="footer">
+                    <img
+                        id="creator-image"
+                        src="./images/image-avatar.png"
+                        alt="Jules Wyvern"
+                    />
+                    Creation of &nbsp
+                    <a href="#" class="clr-100"> Jules Wyvern </a>
+                </div>
+            </div>
+        </main>
+    </body>
+</html>
